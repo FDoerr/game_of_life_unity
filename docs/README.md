@@ -1,5 +1,5 @@
 # game_of_life_unity
-Meine Implementation von [Conway's Game of Life](https://de.wikipedia.org/wiki/Conways_Spiel_des_Lebens#Die_Spielregeln) in Unity mit 
+Meine Implementation von [Conway's Game of Life](https://de.wikipedia.org/wiki/Conways_Spiel_des_Lebens#Die_Spielregeln) in Unity.
 
 
 ### Start mit zufälligem Rauschen:
