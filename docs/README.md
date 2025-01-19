@@ -10,7 +10,7 @@ Meine Implementation von [Conway's Game of Life](https://de.wikipedia.org/wiki/C
 ![](https://github.com/FDoerr/game_of_life_unity/blob/main/docs/place_configurations.gif)
 
 
-## Notizen:
+## Notizen
 Es ist einige Zeit her dass ich dieses Programm geschrieben habe.
 
 Sachen die mir beim drüberschauen aufgefallen sind:
